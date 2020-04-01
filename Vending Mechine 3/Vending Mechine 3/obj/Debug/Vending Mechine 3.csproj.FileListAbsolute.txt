@@ -1,0 +1,11 @@
+F:\c#\Vending Mechine 3\Vending Mechine 3\bin\Debug\Vending Mechine 3.exe.config
+F:\c#\Vending Mechine 3\Vending Mechine 3\bin\Debug\Vending Mechine 3.exe
+F:\c#\Vending Mechine 3\Vending Mechine 3\bin\Debug\Vending Mechine 3.pdb
+F:\c#\Vending Mechine 3\Vending Mechine 3\obj\Debug\Vending Mechine 3.csprojResolveAssemblyReference.cache
+F:\c#\Vending Mechine 3\Vending Mechine 3\obj\Debug\Vending_Mechine_3.Form1.resources
+F:\c#\Vending Mechine 3\Vending Mechine 3\obj\Debug\Vending_Mechine_3.Properties.Resources.resources
+F:\c#\Vending Mechine 3\Vending Mechine 3\obj\Debug\Vending Mechine 3.csproj.GenerateResource.Cache
+F:\c#\Vending Mechine 3\Vending Mechine 3\obj\Debug\Vending Mechine 3.exe
+F:\c#\Vending Mechine 3\Vending Mechine 3\obj\Debug\Vending Mechine 3.pdb
+F:\c#\Vending Mechine 3\Vending Mechine 3\obj\Debug\Vending_Mechine_3.Admin.resources
+F:\c#\Vending Mechine 3\Vending Mechine 3\obj\Debug\Vending_Mechine_3.Insert_Form.resources
